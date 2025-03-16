@@ -1,6 +1,6 @@
-[submodule "ORB_SLAM3"]
-	path = ORB_SLAM3
-	url = https://github.com/Gabp0/ORB_SLAM3.git
 [submodule "orbbec_ws/src/ros_astra_camera"]
 	path = orbbec_ws/src/ros_astra_camera
 	url = https://github.com/orbbec/ros_astra_camera.git
+[submodule "ORB_SLAM3"]
+	path = ORB_SLAM3
+	url = https://github.com/Gabp0/ORB_SLAM3.git
