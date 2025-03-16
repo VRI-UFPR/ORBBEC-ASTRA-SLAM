@@ -42,7 +42,7 @@ RUN apt update && apt install -y libdw-dev \
     libgflags-dev ros-$ROS_DISTRO-image-geometry \
     ros-$ROS_DISTRO-camera-info-manager ros-$ROS_DISTRO-image-publisher \
     libusb-1.0-0-dev ros-$ROS_DISTRO-backward-ros ros-$ROS_DISTRO-tf2 \
-    ros-$ROS_DISTRO-tf2-ros
+    ros-$ROS_DISTRO-tf2-ros ros-$ROS_DISTRO-tf
 
 # Install libuvc
 RUN git clone https://github.com/libuvc/libuvc.git \

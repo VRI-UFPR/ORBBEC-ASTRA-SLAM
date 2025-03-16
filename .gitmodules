@@ -1,6 +1,6 @@
 [submodule "ORB_SLAM3"]
 	path = ORB_SLAM3
-	url = https://github.com/UZ-SLAMLab/ORB_SLAM3.git
+	url = https://github.com/Gabp0/ORB_SLAM3.git
 	branch = c++14_comp
 [submodule "orbbec_ws/src/ros_astra_camera"]
 	path = orbbec_ws/src/ros_astra_camera
